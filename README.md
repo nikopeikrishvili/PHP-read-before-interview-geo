@@ -29,7 +29,7 @@ q
 - [Decorator](Design-Patterns/02-Structural/04-Decorator.md)
 - [Facade](Design-Patterns/02-Structural/05-Facade.md)
 - [Flyweight](Design-Patterns/02-Structural/06-Flyweight.md)
-- Proxy
+- [Proxy](Design-Patterns/02-Structural/07-Proxy.md)
 
 ## Anti Patterns
 
