@@ -22,6 +22,8 @@
 - [Builder](Design-Patterns/01-Creational/04-Builder.md)
 - [Prototype](Design-Patterns/01-Creational/05-Prototype.md)
 
+### Structural
+- [Adapter](Design-Patterns/02-Structural/01-Adapter.md)
 
 ## Anti Patterns
 
