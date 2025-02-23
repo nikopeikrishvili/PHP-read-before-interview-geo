@@ -28,7 +28,7 @@ q
 - [Composite](Design-Patterns/02-Structural/03-Composite.md)
 - [Decorator](Design-Patterns/02-Structural/04-Decorator.md)
 - [Facade](Design-Patterns/02-Structural/05-Facade.md)
-- FlyWeight
+- [Flyweight](Design-Patterns/02-Structural/06-Flyweight.md)
 - Proxy
 
 ## Anti Patterns
