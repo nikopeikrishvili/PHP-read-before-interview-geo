@@ -34,7 +34,7 @@ q
 ### Behavioral
 - [Chain of Responsibility](Design-Patterns/03-Behavioral/01-Chain-of-Responsibility.md)
 - [Command](Design-Patterns/03-Behavioral/02-Command.md)
-- Iterator
+- [Iterator](Design-Patterns/03-Behavioral/03-Iterator.md)
 - Mediator
 - Memento
 - Observer
