@@ -2,17 +2,17 @@
 ## OOP
 - [Polymorphism (პოლიმორფიზმი)](OOP/01-Polymorphism%20(%E1%83%9E%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%9D%E1%83%A0%E1%83%A4%E1%83%98%E1%83%96%E1%83%9B%E1%83%98).md)
 - [Inheritance (მემკვიდრეობა)](OOP/02-Inheritance%20(%E1%83%9B%E1%83%94%E1%83%9B%E1%83%99%E1%83%95%E1%83%98%E1%83%93%E1%83%A0%E1%83%94%E1%83%9D%E1%83%91%E1%83%90).md)
-- [[03-Composition (კომპოზიცია)]] 
-- [[04-Encapsulation (ინკაფსულაცია)]]
-- [[05-Abstraction (აბსტრაქცია)]]
+- [Composition (კომპოზიცია)](OOP/03-Composition%20(%E1%83%99%E1%83%9D%E1%83%9B%E1%83%9E%E1%83%9D%E1%83%96%E1%83%98%E1%83%AA%E1%83%98%E1%83%90).md) 
+- [Encapsulation (ინკაფსულაცია)](OOP/04-Encapsulation%20(%E1%83%98%E1%83%9C%E1%83%99%E1%83%90%E1%83%A4%E1%83%A1%E1%83%A3%E1%83%9A%E1%83%90%E1%83%AA%E1%83%98%E1%83%90).md)
+- [Abstraction (აბსტრაქცია)](OOP/05-Abstraction%20(%E1%83%90%E1%83%91%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%90%E1%83%A5%E1%83%AA%E1%83%98%E1%83%90).md)
 
 ## Solid
-- [[00-SOLID ის შესახებ]]
-- [[01-Single Responsibility]]
-- [[02-Open Closed]]
-- [[03-Liskov Substitution]]
-- [[04-Interface Segregation]]
-- [[05-Dependency Inversion]]
+- [SOLID ის შესახებ](Solid/00-SOLID%20%E1%83%98%E1%83%A1%20%E1%83%A8%E1%83%94%E1%83%A1%E1%83%90%E1%83%AE%E1%83%94%E1%83%91.md)
+- [Single Responsibility](Solid/01-Single%20Responsibility.md)
+- [Open Closed](Solid/02-Open%20Closed.md)
+- [Liskov Substitution](Solid/03-Liskov%20Substitution.md)
+- [Interface Segregation](Solid/04-Interface%20Segregation.md)
+- [Dependency Inversion](Solid/05-Dependency%20Inversion.md)
 
 ## Design Patterns
 ### Creational
@@ -29,4 +29,4 @@
 
 ## სხვადასხვა
 
--  [[Self VS Static]]
+-  [Self VS Static](%E1%83%A1%E1%83%AE%E1%83%95%E1%83%90%E1%83%93%E1%83%90%E1%83%A1%E1%83%AE%E1%83%95%E1%83%90/Self%20VS%20Static.md)
