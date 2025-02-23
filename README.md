@@ -1,4 +1,4 @@
-
+q
 ## OOP
 - [Polymorphism (პოლიმორფიზმი)](OOP/01-Polymorphism%20(%E1%83%9E%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%9D%E1%83%A0%E1%83%A4%E1%83%98%E1%83%96%E1%83%9B%E1%83%98).md)
 - [Inheritance (მემკვიდრეობა)](OOP/02-Inheritance%20(%E1%83%9B%E1%83%94%E1%83%9B%E1%83%99%E1%83%95%E1%83%98%E1%83%93%E1%83%A0%E1%83%94%E1%83%9D%E1%83%91%E1%83%90).md)
@@ -26,7 +26,7 @@
 - [Adapter](Design-Patterns/02-Structural/01-Adapter.md)
 - [Bridge](Design-Patterns/02-Structural/02-Bridge.md)
 - [Composite](Design-Patterns/02-Structural/03-Composite.md)
-- Decorator
+- [Decorator](Design-Patterns/02-Structural/04-Decorator.md)
 - Facade
 - FlyWeight
 - Proxy
