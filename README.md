@@ -31,6 +31,19 @@ q
 - [Flyweight](Design-Patterns/02-Structural/06-Flyweight.md)
 - [Proxy](Design-Patterns/02-Structural/07-Proxy.md)
 
+### Behavioral
+- [Chain of Responsibility](Design-Patterns/03-Behavioral/01-Chain-of-Responsibility.md)
+- [Command](Design-Patterns/03-Behavioral/02-Command.md)
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Template Method
+- Visitor
+
+
 ## Anti Patterns
 
 
