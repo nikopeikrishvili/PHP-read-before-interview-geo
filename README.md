@@ -25,7 +25,7 @@
 ### Structural
 - [Adapter](Design-Patterns/02-Structural/01-Adapter.md)
 - [Bridge](Design-Patterns/02-Structural/02-Bridge.md)
-- Composite
+- [Composite](Design-Patterns/02-Structural/03-Composite.md)
 - Decorator
 - Facade
 - FlyWeight
