@@ -40,7 +40,7 @@
 - [Observer](Design-Patterns/03-Behavioral/06-Observer.md)
 - [State](Design-Patterns/03-Behavioral/07-State.md)
 -  [Strategy](Design-Patterns/03-Behavioral/08-Strategy.md)
-- Template Method
+- [Template Method](Design-Patterns/03-Behavioral/09-Template-Method.md)
 - Visitor
 
 
