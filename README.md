@@ -37,7 +37,7 @@ q
 - [Iterator](Design-Patterns/03-Behavioral/03-Iterator.md)
 - [Mediator](Design-Patterns/03-Behavioral/04-Mediator.md)
 - [Memento](Design-Patterns/03-Behavioral/05-Memento.md)
-- Observer
+- [Observer](Design-Patterns/03-Behavioral/06-Observer.md)
 - State
 - Strategy
 - Template Method
