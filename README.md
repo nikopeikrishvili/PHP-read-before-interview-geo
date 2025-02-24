@@ -1,4 +1,4 @@
-q
+            q
 ## OOP
 - [Polymorphism (პოლიმორფიზმი)](OOP/01-Polymorphism%20(%E1%83%9E%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%9D%E1%83%A0%E1%83%A4%E1%83%98%E1%83%96%E1%83%9B%E1%83%98).md)
 - [Inheritance (მემკვიდრეობა)](OOP/02-Inheritance%20(%E1%83%9B%E1%83%94%E1%83%9B%E1%83%99%E1%83%95%E1%83%98%E1%83%93%E1%83%A0%E1%83%94%E1%83%9D%E1%83%91%E1%83%90).md)
@@ -38,7 +38,7 @@ q
 - [Mediator](Design-Patterns/03-Behavioral/04-Mediator.md)
 - [Memento](Design-Patterns/03-Behavioral/05-Memento.md)
 - [Observer](Design-Patterns/03-Behavioral/06-Observer.md)
-- State
+- [State](Design-Patterns/03-Behavioral/07-State.md)
 - Strategy
 - Template Method
 - Visitor
