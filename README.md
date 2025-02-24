@@ -39,7 +39,7 @@
 - [Memento](Design-Patterns/03-Behavioral/05-Memento.md)
 - [Observer](Design-Patterns/03-Behavioral/06-Observer.md)
 - [State](Design-Patterns/03-Behavioral/07-State.md)
-- Strategy
+-  [Strategy](Design-Patterns/03-Behavioral/08-Strategy.md)
 - Template Method
 - Visitor
 
