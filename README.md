@@ -35,8 +35,8 @@ q
 - [Chain of Responsibility](Design-Patterns/03-Behavioral/01-Chain-of-Responsibility.md)
 - [Command](Design-Patterns/03-Behavioral/02-Command.md)
 - [Iterator](Design-Patterns/03-Behavioral/03-Iterator.md)
-- [Mediator](Design-Patterns/03-Behavioral/04-mediator.md)
-- Memento
+- [Mediator](Design-Patterns/03-Behavioral/04-Mediator.md)
+- [Memento](Design-Patterns/03-Behavioral/05-Memento.md)
 - Observer
 - State
 - Strategy
