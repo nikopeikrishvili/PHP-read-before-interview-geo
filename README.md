@@ -41,7 +41,7 @@
 - [State](Design-Patterns/03-Behavioral/07-State.md)
 -  [Strategy](Design-Patterns/03-Behavioral/08-Strategy.md)
 - [Template Method](Design-Patterns/03-Behavioral/09-Template-Method.md)
-- Visitor
+- [Visitor](Design-Patterns/03-Behavioral/10-Visitor.md)
 
 
 ## Anti Patterns
