@@ -52,3 +52,6 @@
 ## სხვადასხვა
 
 -  [Self VS Static](%E1%83%A1%E1%83%AE%E1%83%95%E1%83%90%E1%83%93%E1%83%90%E1%83%A1%E1%83%AE%E1%83%95%E1%83%90/Self%20VS%20Static.md)
+
+## MySQL
+- [JOIN ტიპები](MySQL/01-Join-Types.md)
