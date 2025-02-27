@@ -55,3 +55,4 @@
 
 ## MySQL
 - [JOIN ტიპები](MySQL/01-Join-Types.md)
+-  [ACID](MySQL/02-ACID.md)
