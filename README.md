@@ -57,3 +57,4 @@
 - [JOIN ტიპები](MySQL/01-Join-Types.md)
 -  [ACID](MySQL/02-ACID.md)
 - [Transaction Isolation Levels](MySQL/03-Transaction-Isolation-Levels.md)
+- [InnoDB Locking](MySQL/04-InnoDB-Locking.md)
